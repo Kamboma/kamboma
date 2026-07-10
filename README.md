@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joseph Bambara
+# 👋 Hi, I'm Joseph Kamboma Bambara
 
 ## Industrial Engineer | AI Engineer | Industry 4.0
 
@@ -10,7 +10,7 @@ My objective is to develop innovative solutions combining AI, Data Analytics and
 
 ## 🚀 About Me
 
-- 🎓 Industrial Systems & Logistics Engineer
+- 🎓 Industrial 4.0  Engineer
 - 🤖 AI & Machine Learning Enthusiast
 - 🏭 Industry 4.0 / Smart Manufacturing
 - 📊 Data Analytics
