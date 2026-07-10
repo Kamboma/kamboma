@@ -17,6 +17,9 @@ My objective is to develop innovative solutions combining AI, Data Analytics and
 - 📡 Industrial IoT
 - 📈 Project Management
 - 🌍 Founder of TechDigInnov
+- 🌍 Founder of Electrostart
+- 🌍 Founder of dripn'tech
+
 
 ---
 
@@ -50,6 +53,7 @@ Siemens PLC • OPC-UA
 
 ## 🌱 Currently Learning
 
+- n8n
 - Generative AI
 - LangChain
 - RAG Systems
@@ -60,9 +64,9 @@ Siemens PLC • OPC-UA
 
 ## 📫 Contact
 
-LinkedIn
+LinkedIn : https://www.linkedin.com/in/kamboma-joseph-bambara-2a07811aa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7fwgKxSZR3KH7VUSzZsFqg%3D%3D
 
-Email
+Email : kambomajosephb@gmail.com
 
 Portfolio (coming soon)
 
