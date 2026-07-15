@@ -16,9 +16,9 @@ My objective is to develop innovative solutions combining AI, Data Analytics and
 - 📊 Data Analytics
 - 📡 Industrial IoT
 - 📈 Project Management
-- 🌍 Founder of TechDigInnov
-- 🌍 Founder of Electrostart
-- 🌍 Founder of dripn'tech
+- 🌍 Co-Founder of TechDigInnov
+- 🌍 Co-Founder of Electrostart
+- 🌍 Co-Founder of dripn'tech
 
 
 ---
